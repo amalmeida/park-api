@@ -1,0 +1,11 @@
+Demo Parking API
+-Spring Boot 3
+-Spring Security
+-Tokens JWT
+-Test End2End
+-Spring Data JPA
+-OpenAPI e Swagger
+-DTO (Data Transfer Object) and ModelMapper
+-Jakarta Bean Validation
+-Spring-JPA-Auditing
+-JasperReports
